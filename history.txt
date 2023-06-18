@@ -1,0 +1,6 @@
+mCASE history
+-------------
+
+* beta-v0.1
+	- Funcionando con PM events desactivados
+	- CC events funcionando
